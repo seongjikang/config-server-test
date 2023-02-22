@@ -1,0 +1,6 @@
+token:
+    expirationTime: 864000
+    secret: prodsservicesecretfortokenabcdefghizklnmopqrstuaaasksjdjkdsfkdsfjksdfjlksjfksdljfksdjflksdjfksdljfsdhdsk
+
+gateway:
+    ip: 172.30.1.21
