@@ -1,5 +1,5 @@
 token:
-    expiration_time: 86400000
+    expirationTime: 86400000
     secret: userservicesecretfortokenabcdefghizklnmopqrstuaaasksjdjkdsfkdsfjksdfjlksjfksdljfksdjflksdjfksdljfsdhdsk
 
 gateway:
